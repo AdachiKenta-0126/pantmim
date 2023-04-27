@@ -9,4 +9,6 @@
 回帰直線の式を用いてセンシングを行い，センシング結果からパントマイムの上手さの評価を行っている
 
 <img width="872" alt="pantomimeData" src="https://user-images.githubusercontent.com/107239912/234083926-176de7c3-79f5-481a-a363-e02db6499be6.png">
+
+得られた回帰直線
 <img width="350" alt="soukan" src="https://user-images.githubusercontent.com/107239912/234084302-2aa93a96-2563-446b-9c3a-1530198e6a4a.png">
